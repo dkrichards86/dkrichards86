@@ -4,8 +4,6 @@
 
 I'm a dad in perpetual training, a curious software engineer, a Marine Corps veteran, and a consummate bro.
 
----
-
 ## About
 
 I'm a Principal Software Engineer at [Clever](https://clever.com), where I work on systems that handle millions of daily logins for K-12 students. I focus on resiliency, authentication infrastructure, and making sure things don't break when traffic spikes.
@@ -16,23 +14,17 @@ Before Clever, I built real-time transit tracking systems at TransLoc, worked on
 
 I'm drawn to problems that require both technical depth and practical thinking. Database optimization, high-availability architecture, distributed systems design — these are the challenges I find interesting. I also spend time mentoring engineers and running workshops on observability and database performance. Building systems and helping people grow are equally important parts of the job.
 
----
-
 ## Distributed Brain
 
 I maintain a public knowledge base of notes on distributed systems concepts: databases, fault tolerance, observability, algorithms, messaging, and more. It's how I think through and retain complex ideas.
 
 **[dkrichards86/distributed-brain](https://github.com/dkrichards86/distributed-brain)**
 
----
-
 ## Operating Manual
 
 A guide to how I work, communicate, and collaborate. Useful if we're going to work together.
 
 **[Read my operating manual](OPERATING_MANUAL.md)**
-
----
 
 ## Connect
 
